@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1524480545 source:e:\tubes std\tubes std\child.cpp
+
+1524485553 source:e:\tubes std\tubes std\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1524480456 source:e:\tubes std\tubes std\parent.cpp
+
+1524480608 source:e:\tubes std\tubes std\relasi.cpp
+
+1524920088 source:f:\tubes std\main.cpp
+	<iostream>
+	<conio.h>
+	"primitif_penilaian.h"
+
+1524919906 source:f:\tubes std\relasi.cpp
+	"relasi.h"
+
+1524827472 f:\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1524919846 f:\tubes std\child.h
+	<iostream>
+
+1524919730 f:\tubes std\parent.h
+	<iostream>
+
+1524919758 source:f:\tubes std\parent.cpp
+	"parent.h"
+
+1524919836 source:f:\tubes std\child.cpp
+	"child.h"
+	<iostream>
+
+1524718456 source:d:\tubes std\tubes std\child.cpp
+	"child.h"
+	<iostream>
+
+1524666635 d:\tubes std\tubes std\child.h
+	<iostream>
+
+1524666805 source:d:\tubes std\tubes std\parent.cpp
+	"parent.h"
+
+1524666797 d:\tubes std\tubes std\parent.h
+	<iostream>
+
+1524718539 source:d:\tubes std\tubes std\relasi.cpp
+	"relasi.h"
+
+1524499059 d:\tubes std\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1524749425 source:d:\tubes std\tubes std\main.cpp
+	<iostream>
+	<conio.h>
+	"primitif_penilaian.h"
+
+1524749414 d:\tubes std\tubes std\primitif_penilaian.h
+	"relasi.h"
+	<stack>
+	<stdlib.h>
+
+1524749025 source:d:\tubes std\tubes std\primitif_penilaian.cpp
+	"primitif_penilaian.h"
+
+1524809018 source:g:\tubes std\child.cpp
+	"child.h"
+	<iostream>
+
+1524666636 g:\tubes std\child.h
+	<iostream>
+
+1524749426 source:g:\tubes std\main.cpp
+	<iostream>
+	<conio.h>
+	"primitif_penilaian.h"
+
+1524749416 g:\tubes std\primitif_penilaian.h
+	"relasi.h"
+	<stack>
+	<stdlib.h>
+
+1524499060 g:\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1524666798 g:\tubes std\parent.h
+	<iostream>
+
+1524800884 source:g:\tubes std\primitif_penilaian.cpp
+	"primitif_penilaian.h"
+
+1524795278 source:g:\tubes std\parent.cpp
+	"parent.h"
+
+1524809014 source:g:\tubes std\relasi.cpp
+	"relasi.h"
+
+1524829396 source:d:\tubes std\child.cpp
+	"child.h"
+	<iostream>
+
+1524828323 d:\tubes std\child.h
+	<iostream>
+
+1524830487 source:d:\tubes std\main.cpp
+	<iostream>
+	<conio.h>
+	"primitif_penilaian.h"
+
+1524830487 d:\tubes std\primitif_penilaian.h
+	"relasi.h"
+	<stack>
+	<stdlib.h>
+
+1524827471 d:\tubes std\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1524828472 d:\tubes std\parent.h
+	<iostream>
+
+1524829409 source:d:\tubes std\parent.cpp
+	"parent.h"
+
+1524830196 source:d:\tubes std\primitif_penilaian.cpp
+	"primitif_penilaian.h"
+
+1524829389 source:d:\tubes std\relasi.cpp
+	"relasi.h"
+
+1524830488 f:\tubes std\primitif_penilaian.h
+	"relasi.h"
+	<stack>
+	<stdlib.h>
+
+1524919794 source:f:\tubes std\primitif_penilaian.cpp
+	"primitif_penilaian.h"
+
